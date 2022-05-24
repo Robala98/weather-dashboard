@@ -21,5 +21,5 @@ API
 
 ## Screenshot 
 
-![screenshot of page](./assets/weatherdashboard.png)
+![screenshot of page](weather.jpg)
 
